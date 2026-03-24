@@ -1,2 +1,7 @@
 # ICT-Portfolio
-My ICT assiggnment repository
+Name: Fatima Yashfeen
+Program: BS Software Engineering
+Semester: 1
+
+This repository is created for my ICT assignment.
+
